@@ -22,4 +22,4 @@ C, Python, SQL, JavaScript, CSS and HTML.
 
 
 ## 🚀 About Me
-Check out my [Portfolio]([https://github.com/cinthiagon](https://cinthiagon.github.io/my_website/).
+Check out my [Portfolio](https://cinthiagon.github.io/my_website/).
