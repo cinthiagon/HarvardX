@@ -1,7 +1,7 @@
 # HarvardX's Computer Science for Cybersecurity Professional Certificate
 
 
-My repository for class challenges @ [HarvardX]('https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-cybersecurity').
+My repository for class challenges @ [HarvardX](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-cybersecurity).
 
 
 
@@ -22,4 +22,4 @@ C, Python, SQL, JavaScript, CSS and HTML.
 
 
 ## 🚀 About Me
-Check out my github profile @ [cinthiagon](https://github.com/cinthiagon)
+Check out my [Portfolio]([https://github.com/cinthiagon](https://cinthiagon.github.io/my_website/).
